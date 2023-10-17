@@ -4,12 +4,29 @@
 }
 
 body {
-  background-color: #b5fac7;
+  background-color: #ffffff;
 }
 
-.pages {
-  color: #316685;
-  text-align: center;
-  font-size: 3.5rem;
-  margin-top: 10%;
+
+.padding20px{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.fontpara{
+  font-family:'Times New Roman', Times, serif;
+ 
+}
+.clasicbtn{
+  width: 130px;
+  font-family:'Times New Roman', Times, serif;
+
+  height: 40px;
+  color: white;
+  font-size: 18px;
+  border: 1px solid #ddd;
+  background-color: cadetblue;
+}
+.hoverbtn:hover{
+background-color: aqua;
+color: rgb(59, 46, 46);
 }
